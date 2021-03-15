@@ -1,0 +1,44 @@
+<HTML>
+<HEAD>
+ 	<TITLE> TRIANGULO </TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR=  #000000>
+	<UL>
+		<FONT SIZE=20 COLOR= #ffff00> 
+		<LI><A HREF=../MENU.HTML><FONT COLOR=#ffffff>MENU</FONT></A> 
+		</FONT> 
+	</UL>
+
+	<FONT SIZE=17 COLOR=#FFFFFF> 
+		<P ALIGN="CENTER">TRIANGULO</P> 
+	</FONT>
+	
+	<FONT SIZE=8 COLOR=#ffffff> 
+		<P ALIGN="CENTER">Un triángulo es un polígono de tres lados (a, b y c). Los lados confluyen dos a dos en tres puntos, llamados vértices (A, B y C).
+		Los tres ángulos interiores del triángulo suman 180°
+		</P> 
+	</FONT>
+
+	<P ALIGN="CENTER">
+		<IMG SRC=triangulo1.jpg heigth=286px width=335px>
+	</P>
+
+	<FONT SIZE=30 COLOR= #ffff00> 
+		<P ALIGN="CENTER">ELEMENTOS Y PROPIEDADES DEL TRIANGULO</P> 
+	</FONT>
+
+	<FONT SIZE=30 COLOR=#ffffff> 
+		<P ALIGN="CENTER">*Vértices: puntos en los que confluyen dos lados. Tiene 3 vértices (A, B y C).</P>
+		<P ALIGN="CENTER">*Lados: segmentos que unen dos vértices consecutivos del triángulo y que delimitan su perímetro. Tiene 3 lados (a, b y c).</P>
+		<P ALIGN="CENTER">*Ángulos interiores: ángulo que forman dos lados consecutivos en el vértice en el que confluyen. Hay 3 ángulos interiores (α, β y γ). Los ángulos interiores del triángulo suman 180°  </P>
+		<P ALIGN="CENTER">*Ángulos exteriores: ángulo de un lado con la prolongación exterior del lado consecutivo. Hay 3 ángulos exteriores (θ). Los ángulos exteriores siempre suman 360°.</P>
+		<P ALIGN="CENTER">*Altura de un triángulo: La altura de un triángulo (h) es el segmento perpendicular a un lado que va desde el vértice opuesto a este lado (o a su prolongación). También puede entenderse como la distancia de un lado al vértice opuesto. Un triángulo tiene tres alturas, según el vértice de referencia que se escoja. Las tres alturas confluyen en un punto llamado ortocentro.</P>
+		
+		<P ALIGN="CENTER">
+		<IMG SRC=triangulo2.jpg heigth=527px width=670px>
+		</P>
+
+</BODY>
+</HTML>
